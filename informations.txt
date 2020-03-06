@@ -1,0 +1,2 @@
+total used free shared buff/cache available Mem: 3930592 610828 1842852 135544 1476912 2906008 Low: 3930592 2087740 1842852 High: 0 0 0 Swap: 0 0 0
+
